@@ -23,5 +23,6 @@ Cursando graduação em Gestão de TI e aprofundamento em Data Science.
 ## Projetos:
 * **Análise do Airbnb na cidade de Buenos Aires:** https://bit.ly/2zAdH4x
 * **Estudo de demanda de vagas para educação infantil em Campinas:** https://bit.ly/2YCtQij
+* **Introdução ao Pandas:** https://bit.ly/2YBJlap
 
 ---
